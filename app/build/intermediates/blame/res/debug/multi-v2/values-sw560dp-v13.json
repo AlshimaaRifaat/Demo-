@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\HyperPay SDK 2.25.0\\HyperPay SDK 2.25.0\\Android_OPPWAMobile_2.25.0\\Demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw560dp-v13\\values-sw560dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ali Shimaa Refaat\\.gradle\\caches\\transforms-2\\files-2.1\\89dab5e968bd455aa273df8681c70069\\res\\values-sw560dp-v13\\values-sw560dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,193,256",
+                        "endColumns": "69,67,62,47",
+                        "endOffsets": "120,188,251,299"
+                    }
+                }
+            ]
+        }
+    ]
+}

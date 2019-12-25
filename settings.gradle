@@ -1,0 +1,1 @@
+include ':app', ':oppwa.mobile.alipay', ':oppwa.mobile', ':oppwa.mobile-2.25.0', ':oppwa.mobile.alipay-2.25.0'

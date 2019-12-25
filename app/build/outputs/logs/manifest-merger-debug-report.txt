@@ -1,0 +1,433 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:2:1-92:12
+MERGED from [com.google.android.material:material:1.1.0-alpha09] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\80fd27987d03603676a95b26b9bf8e9e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b6ecde15d48a236d2ebeafbbc4264b9f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9da7ae1a9abff1ec14c76edae732c968\AndroidManifest.xml:17:1-22:12
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:2:1-26:12
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:2:1-49:12
+MERGED from [:oppwa.mobile.alipay-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0819c3b00cb5412a46339158490989b8\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\3969b07bbd04b4cc6c7618eb4b52d8d5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e7f2876c56429e7cf988ddddd53510ac\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9d7a2ae95e6cd63e3904e93787756ca0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9ee8b36d96516054a350880f7f0941ba\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\8ff997e35d1c244aa95749e0ca2b8019\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\16ab94f9a3f9031c9a1cbbf7fefb35bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b33ed59490dfa493af4da133e14d90b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\6932679e08bc58d34be64156c9322af9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\db69a86adf125ad6aa8979dba09fb9ee\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\76d7c8707352909b842d611d6a625a14\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\8b95f5293692832697a86d7f902ea807\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\290af63fca6379c55700e9ea52a04bae\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\d362887e8bf76f98da143eff9208462b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f44fc305b0bbf272634ab4442e83dcf2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b0638a8963c65946f057ceb709e4132b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\69fee4f2a5963c907d6f247d9f5a4cda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\59eb74a2ce19ad98be9673d6863fb4b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\32547e0dc780fb542a0d55c5072d142f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0559f87c0301e49f3d222dfe17888f96\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\10519194a553e8622364d2ebe2aeee44\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\2c041b5d6d827dd8884b88c19e4e5ba1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\ef910e63c05e1fca1a6c5b4f489bcf90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\7cdb6ff230bd7c55762f0f2ba53ce011\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\11e1a069d490bcb4ea4ae8de3ed31af1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\a5f273c1e0a065e062b0616e23fc59ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b3f4640194d3cc0a09632698bd4dd905\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0d1cc2f07d11074e9fbe3ea38a0738d2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\a77fe13f408469e846006c954ef43a1b\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\7f68e8498f401e919d52586058846d7a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f13e0037395548e2049d5cf8a7618570\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\8d9389eaccdc2e0c9bb8a3928c674ec0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\acd26b9c770f25e6608b423c1a519bbc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\501236bcc8227b764a1fcede292310b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\565f588530e25b0794fef2e7095582d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\15a544886dd99c8e886d2962e78935aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e3ca04d74ac60b7bd9b02d049c65f1c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\cc20e4e3e4e59d46c1e25b55c02d8db1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\148f2319035a797e3d4557e06357fe11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\708141e360c4dafbdc64cbce0f5fc2d0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\adc444a2f4c5745045a718011c66e89d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\743f3bd6fe6524c3c56742aad25d1f08\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\1c634118ec111395dbe268d8d6fe74a0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f09414c1ebf9a100d42b2b899bfcffed\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\181bd58cd7671a352bdb05b87f3513c4\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:2:11-50
+		INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:4:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:12:5-67
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:8:5-90:19
+MERGED from [com.google.android.material:material:1.1.0-alpha09] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\80fd27987d03603676a95b26b9bf8e9e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha09] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\80fd27987d03603676a95b26b9bf8e9e\AndroidManifest.xml:22:5-20
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:19:5-24:19
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:19:5-24:19
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:17:5-47:19
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:17:5-47:19
+MERGED from [:oppwa.mobile.alipay-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0819c3b00cb5412a46339158490989b8\AndroidManifest.xml:11:5-13:38
+MERGED from [:oppwa.mobile.alipay-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0819c3b00cb5412a46339158490989b8\AndroidManifest.xml:11:5-13:38
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\3969b07bbd04b4cc6c7618eb4b52d8d5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\3969b07bbd04b4cc6c7618eb4b52d8d5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e7f2876c56429e7cf988ddddd53510ac\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e7f2876c56429e7cf988ddddd53510ac\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9d7a2ae95e6cd63e3904e93787756ca0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9d7a2ae95e6cd63e3904e93787756ca0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9ee8b36d96516054a350880f7f0941ba\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9ee8b36d96516054a350880f7f0941ba\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b3f4640194d3cc0a09632698bd4dd905\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b3f4640194d3cc0a09632698bd4dd905\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\a77fe13f408469e846006c954ef43a1b\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\a77fe13f408469e846006c954ef43a1b\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\708141e360c4dafbdc64cbce0f5fc2d0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\708141e360c4dafbdc64cbce0f5fc2d0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\adc444a2f4c5745045a718011c66e89d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\adc444a2f4c5745045a718011c66e89d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\743f3bd6fe6524c3c56742aad25d1f08\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\743f3bd6fe6524c3c56742aad25d1f08\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\1c634118ec111395dbe268d8d6fe74a0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\1c634118ec111395dbe268d8d6fe74a0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f09414c1ebf9a100d42b2b899bfcffed\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f09414c1ebf9a100d42b2b899bfcffed\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\181bd58cd7671a352bdb05b87f3513c4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\181bd58cd7671a352bdb05b87f3513c4\AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc02] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b3f4640194d3cc0a09632698bd4dd905\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:13:9-40
+receiver#com.oppwa.mobile.connect.demo.receiver.CheckoutBroadcastReceiver
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:16:13-63
+service#com.oppwa.mobile.connect.service.ConnectService
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:19:9-21:39
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:37:9-39:40
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:20:13-75
+activity#com.oppwa.mobile.connect.checkout.dialog.CheckoutActivity
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:23:9-30:45
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:29:9-34:55
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:29:9-34:55
+	android:screenOrientation
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:27:13-49
+	android:launchMode
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:30:13-43
+	android:windowSoftInputMode
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:28:13-52
+	android:exported
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:29:13-37
+	android:configChanges
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:31:13-48
+	android:theme
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:26:13-55
+		REJECTED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:33:13-56
+	tools:replace
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:25:13-42
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:24:13-85
+activity#com.oppwa.mobile.connect.demo.activity.MainActivity
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:screenOrientation
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:33:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.oppwa.mobile.connect.demo.activity.CheckoutUIActivity
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:42:9-56:20
+	android:screenOrientation
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:44:13-49
+	android:launchMode
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:43:13-56
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/checkout_ui_callback_scheme
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:47:13-54:29
+data
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:48:17-77
+	android:scheme
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:48:23-75
+action#android.intent.action.VIEW
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:50:17-68
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:52:17-75
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:52:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:53:27-75
+activity#com.oppwa.mobile.connect.demo.activity.PaymentButtonActivity
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:58:9-72:20
+	android:screenOrientation
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:60:13-49
+	android:launchMode
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:59:13-59
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/payment_button_callback_scheme
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:63:13-70:29
+activity#com.oppwa.mobile.connect.demo.activity.CustomUIActivity
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:74:9-88:20
+	android:screenOrientation
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:76:13-49
+	android:launchMode
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:77:13-44
+	android:name
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:75:13-54
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/custom_ui_callback_scheme
+ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml:79:13-86:29
+uses-sdk
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha09] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\80fd27987d03603676a95b26b9bf8e9e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha09] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\80fd27987d03603676a95b26b9bf8e9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b6ecde15d48a236d2ebeafbbc4264b9f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b6ecde15d48a236d2ebeafbbc4264b9f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9da7ae1a9abff1ec14c76edae732c968\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9da7ae1a9abff1ec14c76edae732c968\AndroidManifest.xml:20:5-44
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:5:5-7:41
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:7:5-9:41
+MERGED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:7:5-9:41
+MERGED from [:oppwa.mobile.alipay-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0819c3b00cb5412a46339158490989b8\AndroidManifest.xml:7:5-9:41
+MERGED from [:oppwa.mobile.alipay-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0819c3b00cb5412a46339158490989b8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\3969b07bbd04b4cc6c7618eb4b52d8d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\3969b07bbd04b4cc6c7618eb4b52d8d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e7f2876c56429e7cf988ddddd53510ac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e7f2876c56429e7cf988ddddd53510ac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9d7a2ae95e6cd63e3904e93787756ca0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9d7a2ae95e6cd63e3904e93787756ca0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9ee8b36d96516054a350880f7f0941ba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9ee8b36d96516054a350880f7f0941ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\8ff997e35d1c244aa95749e0ca2b8019\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\8ff997e35d1c244aa95749e0ca2b8019\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\16ab94f9a3f9031c9a1cbbf7fefb35bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\16ab94f9a3f9031c9a1cbbf7fefb35bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b33ed59490dfa493af4da133e14d90b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b33ed59490dfa493af4da133e14d90b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\6932679e08bc58d34be64156c9322af9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\6932679e08bc58d34be64156c9322af9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\db69a86adf125ad6aa8979dba09fb9ee\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\db69a86adf125ad6aa8979dba09fb9ee\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\76d7c8707352909b842d611d6a625a14\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\76d7c8707352909b842d611d6a625a14\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\8b95f5293692832697a86d7f902ea807\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\8b95f5293692832697a86d7f902ea807\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\290af63fca6379c55700e9ea52a04bae\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\290af63fca6379c55700e9ea52a04bae\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\d362887e8bf76f98da143eff9208462b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\d362887e8bf76f98da143eff9208462b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f44fc305b0bbf272634ab4442e83dcf2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f44fc305b0bbf272634ab4442e83dcf2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b0638a8963c65946f057ceb709e4132b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b0638a8963c65946f057ceb709e4132b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\69fee4f2a5963c907d6f247d9f5a4cda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\69fee4f2a5963c907d6f247d9f5a4cda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\59eb74a2ce19ad98be9673d6863fb4b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\59eb74a2ce19ad98be9673d6863fb4b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\32547e0dc780fb542a0d55c5072d142f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\32547e0dc780fb542a0d55c5072d142f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0559f87c0301e49f3d222dfe17888f96\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0559f87c0301e49f3d222dfe17888f96\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\10519194a553e8622364d2ebe2aeee44\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\10519194a553e8622364d2ebe2aeee44\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\2c041b5d6d827dd8884b88c19e4e5ba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\2c041b5d6d827dd8884b88c19e4e5ba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\ef910e63c05e1fca1a6c5b4f489bcf90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\ef910e63c05e1fca1a6c5b4f489bcf90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\7cdb6ff230bd7c55762f0f2ba53ce011\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\7cdb6ff230bd7c55762f0f2ba53ce011\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\11e1a069d490bcb4ea4ae8de3ed31af1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\11e1a069d490bcb4ea4ae8de3ed31af1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\a5f273c1e0a065e062b0616e23fc59ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\a5f273c1e0a065e062b0616e23fc59ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b3f4640194d3cc0a09632698bd4dd905\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\b3f4640194d3cc0a09632698bd4dd905\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0d1cc2f07d11074e9fbe3ea38a0738d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\0d1cc2f07d11074e9fbe3ea38a0738d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\a77fe13f408469e846006c954ef43a1b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\a77fe13f408469e846006c954ef43a1b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\7f68e8498f401e919d52586058846d7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\7f68e8498f401e919d52586058846d7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f13e0037395548e2049d5cf8a7618570\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f13e0037395548e2049d5cf8a7618570\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\8d9389eaccdc2e0c9bb8a3928c674ec0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\8d9389eaccdc2e0c9bb8a3928c674ec0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\acd26b9c770f25e6608b423c1a519bbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\acd26b9c770f25e6608b423c1a519bbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\501236bcc8227b764a1fcede292310b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\501236bcc8227b764a1fcede292310b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\565f588530e25b0794fef2e7095582d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\565f588530e25b0794fef2e7095582d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\15a544886dd99c8e886d2962e78935aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\15a544886dd99c8e886d2962e78935aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e3ca04d74ac60b7bd9b02d049c65f1c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e3ca04d74ac60b7bd9b02d049c65f1c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\cc20e4e3e4e59d46c1e25b55c02d8db1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\cc20e4e3e4e59d46c1e25b55c02d8db1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\148f2319035a797e3d4557e06357fe11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\148f2319035a797e3d4557e06357fe11\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\708141e360c4dafbdc64cbce0f5fc2d0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\708141e360c4dafbdc64cbce0f5fc2d0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\adc444a2f4c5745045a718011c66e89d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\adc444a2f4c5745045a718011c66e89d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\743f3bd6fe6524c3c56742aad25d1f08\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\743f3bd6fe6524c3c56742aad25d1f08\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\1c634118ec111395dbe268d8d6fe74a0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\1c634118ec111395dbe268d8d6fe74a0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f09414c1ebf9a100d42b2b899bfcffed\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\f09414c1ebf9a100d42b2b899bfcffed\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\181bd58cd7671a352bdb05b87f3513c4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\181bd58cd7671a352bdb05b87f3513c4\AndroidManifest.xml:4:5-43
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+		ADDED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\HyperPay SDK 2.25.0\HyperPay SDK 2.25.0\Android_OPPWAMobile_2.25.0\Demo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:10:22-63
+uses-feature#android.hardware.camera
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:16:9-57
+activity#io.card.payment.CardIOActivity
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:20:9-22:66
+	android:configChanges
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:21:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\bdfe151f8dae9c89d4a461176f922f4d\AndroidManifest.xml:23:19-67
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:15:22-72
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:20:9-22:36
+	android:value
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:22:13-33
+	android:name
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:21:13-69
+meta-data#com.google.android.gms.version
+ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9ee8b36d96516054a350880f7f0941ba\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\9ee8b36d96516054a350880f7f0941ba\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:24:13-58
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:41:9-46:70
+	android:screenOrientation
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:45:13-47
+	android:windowSoftInputMode
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:46:13-67
+	android:exported
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from [:oppwa.mobile-2.25.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\89dab5e968bd455aa273df8681c70069\AndroidManifest.xml:42:13-60
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\fe480cc8ed3b1f31a7f890bd0aad721a\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e7f2876c56429e7cf988ddddd53510ac\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e7f2876c56429e7cf988ddddd53510ac\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e7f2876c56429e7cf988ddddd53510ac\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ali Shimaa Refaat\.gradle\caches\transforms-2\files-2.1\e7f2876c56429e7cf988ddddd53510ac\AndroidManifest.xml:24:13-79

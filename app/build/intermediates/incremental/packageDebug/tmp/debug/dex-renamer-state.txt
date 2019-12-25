@@ -1,0 +1,4 @@
+#Tue Dec 24 12:15:00 EET 2019
+base.0=D\:\\HyperPay SDK 2.25.0\\HyperPay SDK 2.25.0\\Android_OPPWAMobile_2.25.0\\Demo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
